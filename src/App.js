@@ -1,10 +1,8 @@
-import { ChatIcon } from "./svg";
 
 
 function App() {
   return <div>
-    <h1>Welcome Billu</h1>
-    <ChatIcon/>
+    <h1 className="text-red-500 font-bold">Welcome Billu</h1>
   </div>;
 }
 
